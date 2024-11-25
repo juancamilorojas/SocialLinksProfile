@@ -1,0 +1,9 @@
+##assets
+*.sketch
+*.fig
+*.jpg
+#XD files
+*.XD
+#.DS files
+.DS_Store
+.prettierignore
